@@ -3,7 +3,7 @@
 .root{
   --orange:#ff7a00;
   --color-base2:#022a30;
-background-color: #140b2c;
+background-color: #1c113a;
 }
 
 *{
@@ -42,7 +42,7 @@ body{
   align-items: center;
   justify-content: space-between;
   width:100%;
-  background:#140b2c;
+  background:#1c113a;
   z-index: 100;
   padding:1rem 2rem;
   box-shadow: 0 .2rem .5rem rgba(0,0,0,.3);
@@ -259,7 +259,7 @@ body{
 
 .project{
   min-height:100vh;
-  background:#140b2c;
+  background:#1c113a;
 }
 
 .project .heading{
@@ -380,7 +380,7 @@ body{
 }
 
 .footer{
-  background:#140b2c;
+  background:#1c113a;
   text-align: left;
 }
 
@@ -510,7 +510,7 @@ body{
   .header nav ul{
     height: 100%;
     width:33rem;
-    background:#fff;
+    background:#1c113a;
     flex-flow: column;
     justify-content: center;
     float: right;
